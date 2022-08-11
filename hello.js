@@ -1,1 +1,1 @@
-WScript.Echo("Hello, world!!???!");
+WScript.Echo("*Hell*-o, world!!???!");
