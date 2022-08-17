@@ -21,9 +21,9 @@ $ make install
 실행은 다음과 같이.
 
 ```
-$ sh start.sh
+$ sh ./start.sh
 ```
 
 ## 결론
 
-잘 핮...
+잘 합시다유~
